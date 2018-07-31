@@ -1,0 +1,61 @@
+-#resume-title{
+        font-size: 60px;
+        margin: 20px 0 45px;
+        font-family: 'Lora', serif;
+        font-weight: : bold;
+        margin-top: 100px;
+        color: #191919;
+
+}
+
+.resume-objective{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        color: #191919;
+}
+
+.resume-link{
+        text-decoration: none;
+}
+
+.resume-link:hover{
+        color:red;
+}
+
+
+
+.resume-title0{
+        font-family: 'Lora', serif;
+        font-weight: : bold;
+        font-size: 30px;
+        color: #191919;
+        text-align: right;
+        margin-right: 50px;
+        margin-top: 70px;
+        border-right: 1px solid #191919;
+}
+
+.resume-title1{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 25px;
+        color: #191919;
+        margin-top: 70px;
+
+}
+
+.resume-description1{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        color: #191919;
+        width: 600px;
+        overflow: auto;
+
+}
+
+.resume-description2{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        color: #191919;
+        width: 600px;
+
+}
